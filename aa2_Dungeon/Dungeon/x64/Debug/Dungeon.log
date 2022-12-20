@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\alexr\source\repos\aa2_Dungeon\Dungeon\Main.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\alexr\source\repos\aa2_Dungeon\Dungeon\Main.cpp(31,7): warning C4101: 'playerAction': variable local sin referencia
+  Dungeon.vcxproj -> C:\Users\alexr\source\repos\aa2_Dungeon\x64\Debug\Dungeon.exe
